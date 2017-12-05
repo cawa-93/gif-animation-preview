@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: GIF Animation Preview
-Plugin URI: http://wordpress.org/plugins/gif-animation-preview/
+Plugin URI: https://github.com/cawa-93/gif-animation-preview
 Description: This plugin finds all of your posted animated GIF images to generate a simple preview and animate it as of your wish
 Version: 2.0.0
 Author: Andras Serfozo
